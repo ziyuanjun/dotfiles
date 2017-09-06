@@ -1,0 +1,1 @@
+/home/ziyuan/.vim/vimrc
